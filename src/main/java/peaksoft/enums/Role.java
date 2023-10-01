@@ -3,5 +3,6 @@ package peaksoft.enums;
 public enum Role {
     ADMIN,
     USER,
-    STR
+    STR,
+    hjk
 }
